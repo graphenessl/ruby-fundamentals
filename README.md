@@ -5,3 +5,4 @@ Fundamentals of programming with Ruby
 ### Websites:
 - https://www.ruby-lang.org/en/
 - http://rubyonrails.org/
+- https://rvm.io - Ruby version manager
